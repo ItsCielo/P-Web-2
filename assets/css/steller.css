@@ -11644,3 +11644,10 @@ pre {
 .section.bg-gray {
   background: white;
 }
+
+.darkMode{
+  background:black;
+  height:100vh;
+  }
+  svg{ fill:black;}
+  .darkMode svg {fill:white;}
