@@ -11646,7 +11646,7 @@ pre {
 }
 
 @media (prefers-color-scheme: dark) {
-  .header .container .img-holder img {
-    background: "assets/imgs/dark-man.svg"; 
+  .imgholder .img {
+    background: white;
   }
 }
