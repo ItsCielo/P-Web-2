@@ -11645,9 +11645,10 @@ pre {
   background: white;
 }
 
-.darkMode{
-  background:black;
-  height:100vh;
+@media (prefers-color-scheme: dark) {
+  .img-holder {
+    background: #753;
+    color: #dcb;
+    outline: 5px dashed #000;
   }
-  svg{ fill:black;}
-  .darkMode svg {fill:white;}
+}
