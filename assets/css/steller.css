@@ -11644,10 +11644,3 @@ pre {
 .section.bg-gray {
   background: white;
 }
-
-@media (prefers-color-scheme: dark) {
-  .imgholder .img {
-    background: black;
-    color: black;
-  }
-}
