@@ -11647,7 +11647,7 @@ pre {
 
 @media (prefers-color-scheme: dark) {
   .imgholder .img {
-    background: white;
-    color: white;
+    background: black;
+    color: black;
   }
 }
